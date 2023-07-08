@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mmaatla
-- 👀 I’m interested in ...coding,AI,machine learning and analytics
-- 🌱 I’m currently learning ...code languages
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Software development coding,AI,machine learning and analytics
+- 🌱 I’m currently learning HTML,CSS and Javascript code languages
+- 💞️ I’m looking to collaborate on projects that will allow me to test and expand my skills
 - 📫 How to reach me ...m.makgoana@gmail.com
 
 <!---
