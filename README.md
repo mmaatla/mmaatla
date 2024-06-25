@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @mmaatla
 - 👀 I’m interested in Software development coding,AI,machine learning and analytics
-- 🌱 I’m currently learning HTML,CSS and Javascript code languages
+- 🌱 certified Full Stack Developer
 - 💞️ I’m looking to collaborate on projects that will allow me to test and expand my skills
-- 📫 How to reach me ...m.makgoana@gmail.com
+- 📫 How to reach me codemmaatla@gmail.com
 
 <!---
 mmaatla/mmaatla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
